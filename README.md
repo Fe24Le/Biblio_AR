@@ -1,15 +1,17 @@
 # Biblio-AR
-libreria online
+
+Libreria online Venta de Libros, Comic, Ebook, seleccionados.
+
 <p align="center">
   <img src="./assets/img/fondodetalle.png" alt="Vista Previa de la Página de Libros" width="20%">
 </p>
 
 
 ## Características
-* Muestra los libros de autor de las peliculas exito, y podra tambien visualizar comic y ebook proximamente 
+- Muestra los libros de autor de las peliculas exito, y podra tambien visualizar comic y ebook proximamente 
 - Muestra una lista de libros con enlace a  sus detalles.
 - Un carrusell con un listado de los libros mejor vendidos .
-* Utilisa la libreria AOS para animaciones onscroll.
+- Utilisa la libreria AOS para animaciones onscroll.
 - Utiliza iconos de Bootstrap para mejorar la presentación visual.
 - Diseño adaptable con el framework de Bootstrap.
 
