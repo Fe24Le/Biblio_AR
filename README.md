@@ -23,9 +23,9 @@ libreria online
 
  Biblio-AR [Home](https://fe24le.github.io/Biblio-AR/)
 
- Biblio-AR [Home](https://fe24le.github.io/Biblio-AR/pages/registrarse.html)
+ Biblio-AR [Registrarse](https://fe24le.github.io/Biblio-AR/pages/registrarse.html)
 
- Biblio-AR [Home](https://fe24le.github.io/Biblio-AR/pages/iniciosesion.html)
+ Biblio-AR [Iniciar Sesion](https://fe24le.github.io/Biblio-AR/pages/iniciosesion.html)
 
 ## Tecnologías Utilizadas
 
