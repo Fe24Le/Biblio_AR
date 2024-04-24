@@ -1,7 +1,7 @@
 # Biblio-AR
 libreria online
 <p align="center">
-  <img src="./assets/img/fondodetalle.png" alt="Vista Previa de la Página de Libros" width="40%">
+  <img src="./assets/img/fondodetalle.png" alt="Vista Previa de la Página de Libros" width="20%">
 </p>
 
 
